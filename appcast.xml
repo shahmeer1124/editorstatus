@@ -3,11 +3,12 @@
   <channel>
     <title>SnapArt : AI Photo Editor</title>
     <item>
-        <title>Version 1.0.0</title>
-        <description>First Version Uploaded.</description>
-        <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0.0" sparkle:os="iOS" />
+        <title>Version 1.0.3</title>
+        <description>Bug fixes and performance improvements.</description>
+        <pubDate>Tue, 19 Feb 2025 12:00:00 +0000</pubDate>
+        <enclosure url="https://apps.apple.com/pk/app/snaparti/id6740215427" sparkle:version="1.0.3" sparkle:os="iOS" />
         <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
     </item>
   </channel>
 </rss>
+
